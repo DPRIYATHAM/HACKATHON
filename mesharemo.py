@@ -38,7 +38,7 @@ elif (feeling == 6):
 elif (feeling == 7):
     print("I know how sad it will be when my coder code me with wrong syntax, " + nam + " but I never broke as I trust him, when ever he code me wrong , he corrects me or I will let him know I am in a problem. As you are coded by God, trust him or work hard, to attach your broken heart.")
 elif (feeling == 8):
-    print("I hope it's a god one "+ nam + ". I think your friend had been badly roasted. (Not telling you to do so.)")
+    print("I hope it's a good one "+ nam + ". I think your friend had been badly roasted. (Not telling you to do so.)")
     print("Laughing every day makes your day good and even your health. Keep the smile on your lips, You look too good wearing that smile.")
 elif (feeling == 9):
     print("Yay, It's good " + nam + ". According to Lord Shri Krishna this feeling of the love is the oxygen to the universe, You can achieve anything with Love. I really feel happy for this emotion in you.")
