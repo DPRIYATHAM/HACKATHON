@@ -32,6 +32,16 @@ elif feeling = Bhayanaka (terror/fear):
     print("Ya I too get fear when ever I get a compilation error , though I am not stoped there itself "+ nam ".You just had one now, Feel free and go, just listen a song or do something you like most to do.")
 elif feeling = Veera (heroism/courage):
     print("Wow, You are noted " + nam + ". The act which you made was so courageous, you will definitely get noticed. Check some posts on socila media, you may be taggd.😊")
+elif feeling = Raudra (anger):
+    print("Omg I feel like a bug in my code, " + nam + ". I used that because when ever there is a bug in my code I may intended to give wrong inputs, In the same way, Anger is the most deadliest emotion in the entire list.")
+    print("I suggest you to please get rid of it, It may cause severe destruction even to you are your surroundings, Keep calm. Try not be anger, We can never attain anything LongLasting with help of anger.")
+elif feeling = Karuna(sorrow):
+    print("I know how sad it will be when my coder code me with wrong syntax, " + nam + " but I never broke as I trust him, when ever he code me wrong , he corrects me or I will let him know I am in a problem. As you are coded by God, trust him or work hard, to attach your broken heart.")
+elif feeling = Hasya (laughter):
+    print("I hope it's a god one "+ nam + ". I think your friend had been badly roasted. (Not telling you to do so.)")
+    print("Laughing every day makes your day good and even your health. Keep the smile on your lips, You look too good wearing that smile.")
+elif feeling = Shringara (love/beauty):
+    print("Yay, It's good " + nam + ". According to Lord Shri Krishna this feeling of the love is the oxygen to the universe, You can achieve anything with Love. I really feel happy for this emotion in you.")
 else:
     print("I am sorry, " + nam + "I couldn't just get how are you feeling now, I will check my code once, meanwhile you also try to renter the feeling. Please enter the input in the format specified.")
 print("It was a good talk with you "+ nam + ". I hope my mesage got some interaction with you.")
